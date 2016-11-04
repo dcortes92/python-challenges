@@ -1,0 +1,20 @@
+{
+  "name": "python-challenges",
+  "version": "1.0.0",
+  "description": "Some python fun exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "python",
+    "challenge"
+  ],
+  "author": "dcortes92",
+  "license": "MIT",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
